@@ -3,3 +3,4 @@ model/handpose_classifier/handpose_labels.csv filter=lfs diff=lfs merge=lfs -tex
 model/handpose_classifier/handpose_classifier.tflite filter=lfs diff=lfs merge=lfs -text
 model/handpose_classifier/handpose_classifier.py filter=lfs diff=lfs merge=lfs -text
 model/handpose_classifier/handpose_classifier.keras filter=lfs diff=lfs merge=lfs -text
+model/handpose_classifier/handpose_points_ew.csv filter=lfs diff=lfs merge=lfs -text
