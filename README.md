@@ -3,7 +3,7 @@
 
 ## 0️⃣ Git Clone Project
 ```bash
-git clone https://github.com/YourUsername/ASL2Dobot.git
+git clone https://github.com/DevNatapohn/ASL2Dobot.git
 cd ASL2Dobot
 ```
 
@@ -43,3 +43,4 @@ python -c "import cv2, mediapipe, tensorflow as tf; print(tf.__version__)"
 ```bash
 python main.py
 ```
+
