@@ -1,5 +1,5 @@
 # ASL2Dobot - Installation Guide
-**ASL2Dobot** is a Python 3.x project for real-time Hand Gesture recognition and controlling a Dobot robotic arm. It supports **Windows, Linux, Raspberry Pi** and connects with **Dobot**.
+**ASL2Dobot** is a Python 3.x project for real-time Hand Gesture recognition and controlling a Dobot robotic arm. It supports **Windows, Linux, Raspberry Pi** and connects with ***Dobot***.
 
 ## 0️⃣ Git Clone Project
 ```bash
@@ -41,6 +41,7 @@ python -c "import cv2, mediapipe, tensorflow as tf; print(tf.__version__)"
 
 ## 5️⃣ Run
 ```bash
-python main.py
+python main.py 
 ```
+
 
